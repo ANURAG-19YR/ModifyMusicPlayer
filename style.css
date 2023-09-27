@@ -92,10 +92,9 @@ nav ul li {
 .songItem {
     height: 50px;
     display: flex;
-    background-color: #1ed7609e;
-    font-weight:bolder;
-    border: 1px solid rgb(169, 169, 169);
-
+    background-color: #d75552b2;
+    font-weight: bolder;
+    border: 1px solid rgb(255, 192, 1);
     color: black;
     margin: 20px -7px;
     justify-content: space-between;
